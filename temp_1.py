@@ -1,0 +1,13 @@
+import math
+
+# Спросим, что хорошего в этой библиотеке.
+print(math.__doc__)
+
+# Будет напечатано:
+# This module provides access to the mathematical functions
+# defined by the C standard.
+
+# Этот модуль обеспечивает доступ к математическим функциям
+# определяется стандартом C.
+
+print(print.__doc__)
